@@ -1,0 +1,23 @@
+{
+    "Controls.ColumnPickerDialog.HideHint": "Скрыть",
+    "Controls.ColumnPickerDialog.ShowHint": "Показать",
+    "Controls.EntityDialog.DeleteButton": "Удалить",
+    "Controls.EntityDialog.LocalizationBack": "Назад к Форме",
+    "Db.Administration.Role.EntityPlural": "Должности",
+    "Db.Northwind.Customer.EntityPlural": "Клиенты",
+    "Db.Northwind.Product.SupplierID": "Поставщики",
+    "Db.Northwind.Shipper.EntityPlural": "Транспортная",
+    "Db.Northwind.Supplier.Address": "Адрес",
+    "Db.Northwind.Supplier.City": "Город",
+    "Db.Northwind.Supplier.EntityPlural": "Поставщики",
+    "Navigation.Administration": "Админинстрирование",
+    "Navigation.Administration/Languages": "Языки",
+    "Navigation.Administration/Roles": "Должности",
+    "Navigation.Administration/Translations": "Перевод",
+    "Navigation.Dashboard": "Панель",
+    "Navigation.Northwind": "Florex",
+    "Navigation.Northwind/Customers": "Клиенты",
+    "Navigation.Northwind/Shippers": "Транспортная",
+    "Navigation.Northwind/Suppliers": "Поставщики",
+    "Permission.Northwind:Customer": "Клиенты"
+}
